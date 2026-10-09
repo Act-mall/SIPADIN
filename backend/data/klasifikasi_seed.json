@@ -1,0 +1,2368 @@
+[
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP",
+    "uraian": "Persiapan Pemilu atau Pemilihan",
+    "level": 0
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.01",
+    "uraian": "Perencanaan Program dan Anggaran",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.01.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.01.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.02",
+    "uraian": "Penataan Organisasi",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.02.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.02.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.03",
+    "uraian": "Pendaftaran Pemantau dan Pemantauan",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.03.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.03.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.04",
+    "uraian": "Pembentukan Badan Penyelenggara",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.04.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.04.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.05",
+    "uraian": "Rapat Kerja dan Rapat Koordinasi di Setiap Tingkatan",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.05.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.05.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.06",
+    "uraian": "Sosialisasi, Bimbingan Teknis, Penyuluhan, Publikasi, dan Pendidikan Pemilih",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.06.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.06.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.07",
+    "uraian": "Pengelolaan Data dan Informasi",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.07.1",
+    "uraian": "Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.07.2",
+    "uraian": "Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.08",
+    "uraian": "Logistik Penyelenggaraan Pemilu",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.08.1",
+    "uraian": "Pengelolaan Data dan Dokumentasi Kebutuhan Sarana Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.08.2",
+    "uraian": "Standar Barang/Jasa Sarana dan Prasarana Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.08.3",
+    "uraian": "Administrasi dan Alokasi Sarana dan Prasarana Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.08.4",
+    "uraian": "Distribusi Sarana dan Prasarana Pemilu (Angkutan Reguler/Non Reguler)",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.08.5",
+    "uraian": "Penyimpanan Sarana Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.09",
+    "uraian": "Logistik Penyelenggaraan Pemilihan",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.09.1",
+    "uraian": "Pengelolaan Data dan Dokumentasi Kebutuhan Sarana Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.09.2",
+    "uraian": "Standar Barang/Jasa Sarana dan Prasarana Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.09.3",
+    "uraian": "Administrasi dan Alokasi Sarana dan Prasarana Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.09.4",
+    "uraian": "Distribusi Sarana dan Prasarana Pemilihan (Angkutan Reguler/Non Reguler)",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PP - Persiapan Pemilu atau Pemilihan",
+    "kode": "PP.09.5",
+    "uraian": "Penyimpanan Sarana Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL",
+    "uraian": "Pelaksanaan Pemilu atau Pemilihan",
+    "level": 0
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01",
+    "uraian": "Pelaksanaan Pemilu",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.1",
+    "uraian": "Pendaftaran, Verifikasi dan Penetapan Peserta Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.2",
+    "uraian": "Pemutahiran Data Pemilih dan Penyusunan Daftar Pemilih",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.3",
+    "uraian": "Penetapan Jumlah Kursi dan Penetapan Daerah Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.4",
+    "uraian": "Pencalonan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.5",
+    "uraian": "Penetapan Calon Anggota DPR, DPD, DPRD dan Pasangan Calon Presiden dan Wakil Presiden serta Penetapan Nomor Urut",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.6",
+    "uraian": "Kampanye",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.7",
+    "uraian": "Dana Kampanye",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.8",
+    "uraian": "Pemungutan, Penghitungan, dan Rekapitulasi Hasil Penghitungan Perolehan Suara",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.9",
+    "uraian": "Penetapan Calon Terpilih",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.01.10",
+    "uraian": "Sumpah/Janji Anggota DPR, DPD, DPRD, Presiden dan Wakil Presiden",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02",
+    "uraian": "Pelaksanaan Pemilihan",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.1",
+    "uraian": "Pemutakhiran dan Penyusunan Daftar Pemilih",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.2",
+    "uraian": "Pencalonan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.3",
+    "uraian": "Penetapan Pasangan Calon Gubernur dan Wakil Gubernur, Bupati dan Wakil Bupati, serta Walikota dan Wakil Walikota dan Penetapan Nomor Urut",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.4",
+    "uraian": "Kampanye",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.5",
+    "uraian": "Dana Kampanye",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.6",
+    "uraian": "Pemungutan, Penghitungan Suara, dan Rekapitulasi Hasil Penghitungan Perolehan Suara",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PL - Pelaksanaan Pemilu atau Pemilihan",
+    "kode": "PL.02.7",
+    "uraian": "Penetapan Calon Terpilih",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY",
+    "uraian": "Penyelesaian Pemilu atau Pemilihan",
+    "level": 0
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.01",
+    "uraian": "Penyelesaian Pemilu",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.01.1",
+    "uraian": "Sengketa Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.01.2",
+    "uraian": "Penyusunan Laporan Keuangan Penyelenggaraan Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.01.3",
+    "uraian": "Pengelolaan Arsip Penyelenggaraan Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.01.4",
+    "uraian": "Penyusunan Dokumentasi Penyelenggaraan Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.01.5",
+    "uraian": "Evaluasi dan Pelaporan Penyelenggaraan Pemilu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.02",
+    "uraian": "Penyelesaian Pemilihan",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.02.1",
+    "uraian": "Sengketa Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PY - Penyelesaian Pemilu atau Pemilihan",
+    "kode": "PY.02.2",
+    "uraian": "Evaluasi dan Pelaporan Penyelenggaraan Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PAW - Penggantian Antar Waktu",
+    "kode": "PAW",
+    "uraian": "Penggantian Antar Waktu",
+    "level": 0
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PAW - Penggantian Antar Waktu",
+    "kode": "PAW.01",
+    "uraian": "Penggantian Antar Waktu dan Pengisian Anggota DPR, DPD, dan DPRD",
+    "level": 1
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PAW - Penggantian Antar Waktu",
+    "kode": "PAW.01.1",
+    "uraian": "Penggantian Antar Waktu",
+    "level": 2
+  },
+  {
+    "kategori": "Substantif",
+    "bidang": "PAW - Penggantian Antar Waktu",
+    "kode": "PAW.01.2",
+    "uraian": "Pengisian Keanggotaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR",
+    "uraian": "Perencanaan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.01",
+    "uraian": "Pokok-Pokok Kebijakan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.01.1",
+    "uraian": "Rencana Pembangunan Jangka Panjang (RPJP)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.01.2",
+    "uraian": "Rencana Pembangunan Jangka Menengah (RPJM)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.01.3",
+    "uraian": "Rencana Strategis (Renstra)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.02",
+    "uraian": "Rencana Kerja Tahunan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.02.1",
+    "uraian": "Naskah usulan unit kerja termasuk KAK/RAB dan Satuan Kerja beserta Data Pendukung",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.02.2",
+    "uraian": "Usulan Kegiatan Lembaga",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.02.3",
+    "uraian": "Rencana Kerja Tahunan (sejak penyusunan Pagu Indikatif sampai Rencana Kerja)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.02.4",
+    "uraian": "Rencana kerja berdasarkan Pagu Indikatif",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.03",
+    "uraian": "Penetapan/Kontrak Kinerja (TAPKIN dan LAKIP)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.03.1",
+    "uraian": "Lembaga/KPU",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.03.2",
+    "uraian": "Pimpinan Tinggi Utama dan Madya",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.03.3",
+    "uraian": "Pimpinan Tinggi Pratama",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.04",
+    "uraian": "Laporan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.04.1",
+    "uraian": "Laporan berkala (Triwulan, Semester, Tahunan)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.04.2",
+    "uraian": "Laporan Insidental",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.05",
+    "uraian": "Dokumen Rapat Dengar Pendapat",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PR - Perencanaan",
+    "kode": "PR.06",
+    "uraian": "Evaluasi Program (Unit Kerja dan Lembaga)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK",
+    "uraian": "Hukum",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.01",
+    "uraian": "Program Legislasi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.02",
+    "uraian": "Peraturan KPU",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.03",
+    "uraian": "Keputusan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.03.1",
+    "uraian": "Keputusan KPU, Keputusan KPU Provinsi, dan Keputusan KPU Kabupaten/Kota",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.03.2",
+    "uraian": "Keputusan Sekretaris Jenderal KPU, Keputusan Sekretaris KPU Provinsi, dan Keputusan Sekretaris KPU Kabupaten/Kota",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.04",
+    "uraian": "Instruksi/Surat Edaran",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.04.1",
+    "uraian": "Instruksi/Surat Edaran KPU, KPU Provinsi, dan KPU Kabupaten/Kota",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.04.2",
+    "uraian": "Surat Edaran Sekretaris Jenderal KPU, Sekretaris KPU Provinsi, dan KPU Kabupaten/Kota",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.05",
+    "uraian": "Nota Kesepahaman/MoU dan Perjanjian Kerja Sama (PKS)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.05.1",
+    "uraian": "Dalam Negeri",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.05.2",
+    "uraian": "Luar Negeri",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.06",
+    "uraian": "Sosialisasi/Penyuluhan Pembinaan Hukum",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07",
+    "uraian": "Bantuan/Konsultasi Hukum/Advokasi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.1",
+    "uraian": "Pengadilan Negeri/Pengadilan Tinggi/Mahkamah Agung (Pidana)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.2",
+    "uraian": "Pengadilan Negeri/Pengadilan Tinggi/Mahkamah Agung (Perdata)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.3",
+    "uraian": "Pengadilan Tata Usaha Negara/Pengadilan Tinggi Tata Usaha Negara/Mahkamah Agung (TUN)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.4",
+    "uraian": "Dewan Kehormatan Penyelenggara Pemilu (Kode Etik)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.5",
+    "uraian": "Mahkamah Konstitusi (hasil Pemilu/Pemilihan)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.6",
+    "uraian": "Badan Pengawas Pemilu (Pelanggaran Administrasi/Sengketa Pemilu/Pemilihan)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HK - Hukum",
+    "kode": "HK.07.7",
+    "uraian": "Pendampingan Kepolisian, Kejaksaan, Komisi Pemberantasan Korupsi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT",
+    "uraian": "Organisasi dan Ketatalaksanaan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.01",
+    "uraian": "Struktur Organisasi di Lingkungan Lembaga Negara dan Badan Pemerintah/Instansi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.01.1",
+    "uraian": "Pembentukan (SOTK Tipologi KPU Provinsi)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.01.2",
+    "uraian": "Pengubahan (SOTK Tipologi KPU Provinsi)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.02",
+    "uraian": "Uraian Jabatan dan Tata Kerja",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.03",
+    "uraian": "Standar Kompetensi Jabatan Manajerial dan Fungsional",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.04",
+    "uraian": "Evaluasi Kelembagaan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.05",
+    "uraian": "Peta Proses Bisnis",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.06",
+    "uraian": "Standar Operasional Prosedur bersifat nasional/regional/internasional",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.07",
+    "uraian": "Reformasi Birokrasi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.08",
+    "uraian": "Pelayanan Publik di Lingkungan Negara dan Badan Pemerintah/Instansi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.08.1",
+    "uraian": "Pedoman Standar Pelayanan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.08.2",
+    "uraian": "Hasil Evaluasi Pelayanan Publik",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.09",
+    "uraian": "Sertifikat Manajemen Mutu Organisasi (ISO)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.10",
+    "uraian": "Analisis Jabatan dan Beban Kerja KPU, KPU Provinsi, dan KPU Kabupaten/Kota",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.10.1",
+    "uraian": "Analisis jabatan (Anjab)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.10.2",
+    "uraian": "Analisis Beban Kerja (ABK)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "ORT - Organisasi dan Ketatalaksanaan",
+    "kode": "ORT.10.3",
+    "uraian": "Peta Jabatan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU",
+    "uraian": "Kearsipan dan Ketatausahaan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.01",
+    "uraian": "Administrasi Persuratan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.01.1",
+    "uraian": "Buku Agenda",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.01.2",
+    "uraian": "Lembar Pengantar/Buku Ekspedisi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.02",
+    "uraian": "Penyimpanan dan Pemeliharaan Arsip",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.03",
+    "uraian": "Persetujuan Jadwal Retensi Arsip (JRA)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.04",
+    "uraian": "Layanan Arsip",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.05",
+    "uraian": "Penyusutan Arsip",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.05.1",
+    "uraian": "Pemindahan Arsip Inaktif",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.05.2",
+    "uraian": "Pemusnahan Arsip yang tidak bernilai guna",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.05.3",
+    "uraian": "Penyerahan Arsip Statis",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.06",
+    "uraian": "Pembinaan Kearsipan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.06.1",
+    "uraian": "Apresiasi/Sosialisasi/Penyuluhan Kearsipan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.06.2",
+    "uraian": "Bimbingan Teknis",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TU - Kearsipan dan Ketatausahaan",
+    "kode": "TU.06.3",
+    "uraian": "Supervisi dan Monitoring",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT",
+    "uraian": "Kerumahtanggaan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.01",
+    "uraian": "Inventarisasi Aset",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.01.1",
+    "uraian": "Administrasi Pengadaan Aset dan Persediaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.01.2",
+    "uraian": "Administrasi Pengelolaan Aset dan Persediaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.01.3",
+    "uraian": "Administrasi Penghapusan Aset dan Persediaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.02",
+    "uraian": "Perjalanan Dinas",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.02.1",
+    "uraian": "Perjalanan Dinas Dalam Negeri",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.02.2",
+    "uraian": "Perjalanan Dinas Luar Negeri",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.03",
+    "uraian": "Pengurusan Kendaraan Dinas",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.03.1",
+    "uraian": "Pengurusan surat-surat kendaraan dinas",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.03.2",
+    "uraian": "Pemeliharaan dan Perbaikan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.03.3",
+    "uraian": "Peminjaman Kendaraan Dinas",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.03.4",
+    "uraian": "Pengurusan kehilangan dan masalah kendaraan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.04",
+    "uraian": "Pemeliharaan Gedung dan Taman",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.05",
+    "uraian": "Telekomunikasi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.06",
+    "uraian": "Pengelolaan Jaringan Listrik, Air, Telepon dan Peralatan Kantor Lainnya",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.06.1",
+    "uraian": "Perbaikan/pemeliharaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.06.2",
+    "uraian": "Pemasangan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.06.3",
+    "uraian": "Peminjaman peralatan kantor",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.07",
+    "uraian": "Administrasi Penggunaan Fasilitas Kantor",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.08",
+    "uraian": "Administrasi Penyediaan Konsumsi dan Akomodasi di Lingkungan Kantor KPU",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.09",
+    "uraian": "Ketertiban dan Keamanan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.09.1",
+    "uraian": "Pengamanan, penjagaan, dan pengawalan terhadap pejabat, kantor, dan rumah dinas",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.09.2",
+    "uraian": "Laporan ketertiban dan keamanan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.10",
+    "uraian": "Administrasi Pengelolaan Parkir",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "RT - Kerumahtanggaan",
+    "kode": "RT.11",
+    "uraian": "Administrasi Pakaian Dinas Pegawai, Satpam, Petugas Kebersihan dan Pegawai Lainnya",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PK - Persidangan dan Keprotokolan",
+    "kode": "PK",
+    "uraian": "Persidangan dan Keprotokolan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PK - Persidangan dan Keprotokolan",
+    "kode": "PK.01",
+    "uraian": "Persidangan (Undangan Rapat Pleno, Risalah Rapat, Berita Acara Rapat Pleno, Transkrip, Rekaman)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PK - Persidangan dan Keprotokolan",
+    "kode": "PK.02",
+    "uraian": "Keprotokolan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PK - Persidangan dan Keprotokolan",
+    "kode": "PK.02.1",
+    "uraian": "Upacara/Acara Kedinasan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PK - Persidangan dan Keprotokolan",
+    "kode": "PK.02.2",
+    "uraian": "Kunjungan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM",
+    "uraian": "Kehumasan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.01",
+    "uraian": "Dokumentasi/Liputan Kegiatan Dinas Pimpinan, Acara Kedinasan dan Peristiwa lain dalam berbagai media",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.02",
+    "uraian": "Pengumpulan, Pengolahan, dan Penyajian Informasi Kelembagaan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03",
+    "uraian": "Hubungan KPU dengan Badan Pemerintahan/Instansi",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03.1",
+    "uraian": "Hubungan dengan lembaga pemerintah",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03.2",
+    "uraian": "Hubungan dengan organisasi sosial dan lembaga swadaya masyarakat (LSM)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03.3",
+    "uraian": "Hubungan dengan perusahaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03.4",
+    "uraian": "Hubungan dengan lembaga pendidikan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03.5",
+    "uraian": "Forum kehumasan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.03.6",
+    "uraian": "Hubungan dengan media massa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.04",
+    "uraian": "Master Publikasi Melalui Media Cetak dan Elektronik",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.05",
+    "uraian": "Duplikasi Publikasi Melalui Media Cetak dan Elektronik",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.06",
+    "uraian": "Pameran/Sayembara/Lomba, Festival, Pembuatan Spanduk, dan Iklan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.07",
+    "uraian": "Penghargaan/Tanda Kenang-Kenangan dan Administrasi Pemberiannya",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "HM - Kehumasan",
+    "kode": "HM.08",
+    "uraian": "Ucapan Terima Kasih, Ucapan Selamat, Bela Sungkawa, dan Permohonan Maaf",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS",
+    "uraian": "Kepustakaan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.01",
+    "uraian": "Penyimpanan Deposit Bahan Pustaka",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.01.1",
+    "uraian": "Bukti penerimaan koleksi bahan pustaka deposit",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.01.2",
+    "uraian": "Administrasi pengolahan deposit bahan Pustaka",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02",
+    "uraian": "Pengadaan dan Pengelolaan Bahan Pustaka",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.1",
+    "uraian": "Buku induk koleksi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.2",
+    "uraian": "Daftar buku terseleksi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.3",
+    "uraian": "Daftar buku dalam pemesanan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.4",
+    "uraian": "Daftar buku dalam permintaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.5",
+    "uraian": "Daftar penerimaan bahan pustaka hasil pembelian, hadiah deposit, hibah",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.6",
+    "uraian": "Daftar pengiriman bahan pustaka surplus",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.7",
+    "uraian": "Lembar kerja pengolahan Buram dan Pengkatalogan (BP)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.8",
+    "uraian": "Shelf List/Jajaran Kartu Utama (Master List)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.02.9",
+    "uraian": "Daftar tambahan buku (Accession List)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PUS - Kepustakaan",
+    "kode": "PUS.03",
+    "uraian": "Pembentukan Keanggotaan Perpustakaan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB",
+    "uraian": "Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01",
+    "uraian": "Penelitian dan Pengembangan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01.1",
+    "uraian": "Jurnal Kepemiluan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01.2",
+    "uraian": "Buku Bunga Rampai Kepemiluan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01.3",
+    "uraian": "Riset Nasional Kepemiluan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01.4",
+    "uraian": "Hasil Kajian/Analisis Kepemiluan Pusat dan Daerah",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01.5",
+    "uraian": "Hasil Seminar Nasional dan Internasional",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.01.6",
+    "uraian": "Izin Penelitian Kepemiluan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02",
+    "uraian": "Pendidikan dan Pelatihan (Diklat)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.1",
+    "uraian": "Perencanaan Diklat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.2",
+    "uraian": "Kelengkapan Diklat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.3",
+    "uraian": "Penyelenggaraan Diklat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.4",
+    "uraian": "Registrasi Sertifikat/STTPL Peserta Diklat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.5",
+    "uraian": "Akreditasi Lembaga Diklat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.6",
+    "uraian": "Sertifikasi Sumber Daya Manusia Kediklatan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PLB - Penelitian, Pengembangan, Pendidikan dan Pelatihan",
+    "kode": "PLB.02.7",
+    "uraian": "Sistem Informasi Diklat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK",
+    "uraian": "Teknologi Informasi dan Komunikasi",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.01",
+    "uraian": "Rencana Strategis/Master Plan Pembangunan Sistem Informasi Manajemen (SIM)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.02",
+    "uraian": "Dokumen arsitektur (sistem informasi, sistem aplikasi, infrastruktur)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.03",
+    "uraian": "Dokumentasi implementasi (sistem informasi, sistem aplikasi, infrastruktur)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.04",
+    "uraian": "Laporan Hasil Perekaman dan Pemutakhiran Data",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.05",
+    "uraian": "Migrasi sistem aplikasi, data, dan dokumen hosting",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.06",
+    "uraian": "Dokumen Hosting",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "TIK - Teknologi Informasi dan Komunikasi",
+    "kode": "TIK.07",
+    "uraian": "Layanan back up data digital",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW",
+    "uraian": "Pengawasan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.01",
+    "uraian": "Rencana Pengawasan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.01.1",
+    "uraian": "Rencana Strategis Pengawasan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.01.2",
+    "uraian": "Rencana Kerja Tahunan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.01.3",
+    "uraian": "Rencana Kinerja Tahunan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.01.4",
+    "uraian": "Penetapan Kinerja Tahunan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02",
+    "uraian": "Pelaksanaan Pengawasan",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.1",
+    "uraian": "Laporan hasil pemeriksaan non keuangan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.2",
+    "uraian": "Laporan Perkembangan Penanganan Surat Pengaduan Masyarakat tentang Keuangan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.3",
+    "uraian": "Laporan Pemutakhiran Data Tindak Lanjut Temuan yang Bermasalah",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.4",
+    "uraian": "Laporan Kegiatan Pendampingan Penyusunan Laporan Keuangan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.5",
+    "uraian": "Good Corporate Governance (Dokumen Pakta Integritas)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.6",
+    "uraian": "Kertas Kerja Audit",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.7",
+    "uraian": "Kertas Kerja Evaluasi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.8",
+    "uraian": "Kertas Kerja Verifikasi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.9",
+    "uraian": "Laporan Hasil Evaluasi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.10",
+    "uraian": "Laporan Verifikasi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.11",
+    "uraian": "Laporan Hasil Pemeriksaan atas Laporan Keuangan oleh BPK RI",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.12",
+    "uraian": "Hasil Pengawasan dan Pelaksanaan Internal oleh Inspektorat",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.02.13",
+    "uraian": "Laporan Aparat Pemeriksa Fungsional (LHP, MHP, Tindak lanjut/Tanggapan LHP)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.03",
+    "uraian": "Evaluasi Laporan Akuntabilitas Kinerja Instansi Pemerintah",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PW - Pengawasan",
+    "kode": "PW.04",
+    "uraian": "Piagam Internal Audit Charter",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ",
+    "uraian": "Pengadaan Barang dan Jasa",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01",
+    "uraian": "Layanan Pengadaan Barang/Jasa",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.1",
+    "uraian": "Telaah/Kajian Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.2",
+    "uraian": "Penyusunan Kebijakan/Regulasi/Edaran Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.3",
+    "uraian": "Rencana Umum Pengadaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.4",
+    "uraian": "Pembuatan Dokumen Surat Tugas Penunjukan Pokja Pemilihan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.5",
+    "uraian": "Analisis/Survey Pasar Barang/Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.6",
+    "uraian": "Penyusunan Dokumen Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.7",
+    "uraian": "Dokumen Kontrak Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.01.8",
+    "uraian": "Laporan Monitoring dan Evaluasi Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.02",
+    "uraian": "Laporan Pengadaan Barang dan Jasa",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.03",
+    "uraian": "Bimbingan dan Pendampingan Pengadaan Barang dan Jasa",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.03.1",
+    "uraian": "Pendampingan Pengadaan barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.03.2",
+    "uraian": "Petunjuk Pelaksanaan Bimbingan Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.03.3",
+    "uraian": "Pendampingan/Konsultasi Hukum Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "PBJ - Pengadaan Barang dan Jasa",
+    "kode": "PBJ.03.4",
+    "uraian": "Sosialisasi/Bimbingan Teknis Pengadaan Barang dan Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE",
+    "uraian": "Layanan Pengadaan Secara Elektronik",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.01",
+    "uraian": "Pengelolaan Layanan Pengadaan Secara Elektronik (LPSE)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.01.1",
+    "uraian": "Permintaan Update Aplikasi SPSE",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.01.2",
+    "uraian": "Pemeliharaan Aplikasi SPSE",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.02",
+    "uraian": "Registrasi dan Verifikasi Akun pengguna LPSE dan SIRUP",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.02.1",
+    "uraian": "Verifikasi Penyedia",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.02.2",
+    "uraian": "Permohonan Akun Pengguna LPSE dan SIRUP",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.03",
+    "uraian": "Layanan Helpdesk",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.03.1",
+    "uraian": "Pelayanan Layanan Pengadaan Secara Elektronik (LPSE)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.03.2",
+    "uraian": "Penyusunan Laporan Sosialisasi Aplikasi dan Pedoman Rencana Umum Pengadaan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.03.3",
+    "uraian": "Penyusunan laporan Monitoring dan Evaluasi Layanan Pengadaan Secara Elektronik",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "LPSE - Layanan Pengadaan Secara Elektronik",
+    "kode": "LPSE.03.4",
+    "uraian": "Survey Layanan Pengadaan Secara Elektronik",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM",
+    "uraian": "Kepegawaian",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.01",
+    "uraian": "Formasi Pegawai",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02",
+    "uraian": "Pengadaan Pegawai",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.1",
+    "uraian": "Proses Penerimaan Pegawai",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.2",
+    "uraian": "Penetapan Pengumuman Kelulusan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.3",
+    "uraian": "Berkas Lamaran yang Tidak Diterima",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.4",
+    "uraian": "Pengadaan Pegawai non PNS/ASN",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.5",
+    "uraian": "Penetapan Pengumuman Kelulusan (non PNS/ASN)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.6",
+    "uraian": "Seleksi Anggota KPU",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.7",
+    "uraian": "Seleksi Anggota KPU Provinsi dan KPU Kabupaten/Kota",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.8",
+    "uraian": "Pengunduran diri Anggota KPU, KPU Provinsi, dan KPU Kabupaten/Kota dan Tindak Lanjut Putusan DKPP",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.02.9",
+    "uraian": "Pemberian Sanksi atas Pengawasan Internal",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.03",
+    "uraian": "Pembinaan Karir Pegawai",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.03.1",
+    "uraian": "Pendidikan dan Pelatihan/Kursus/Tugas Belajar/Ujian Dinas/Izin Belajar Pegawai",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.03.2",
+    "uraian": "Ujian Kompetensi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.03.3",
+    "uraian": "Penghargaan dan Tanda Jasa",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.03.4",
+    "uraian": "Pembinaan Mental Kepegawaian",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04",
+    "uraian": "Kode Etik, Disiplin, Pemberhentian, dan Pensiun ASN",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04.1",
+    "uraian": "Disiplin Pegawai",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04.2",
+    "uraian": "Berkas Hukuman Disiplin",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04.3",
+    "uraian": "Pemberhentian Pegawai Tanpa Hak Pensiun",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04.4",
+    "uraian": "Pengaduan/Permasalahan Kepegawaian",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04.5",
+    "uraian": "Perselisihan/Sengketa Kepegawaian",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.04.6",
+    "uraian": "Usul Pemberhentian dan Penetapan Pensiun Pegawai/Janda/Duda dan PNS yang Tewas",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.05",
+    "uraian": "Mutasi Pegawai",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.05.1",
+    "uraian": "Alih Status, Pindah Instansi, Pindah Wilayah Kerja, Dipekerjakan, dan Mutasi Antar Unit",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.05.2",
+    "uraian": "Badan Pertimbangan Jabatan dan Kepangkatan (Baperjakat)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06",
+    "uraian": "Administrasi Pegawai",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.1",
+    "uraian": "Surat Perintah Dinas/Surat Tugas",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.2",
+    "uraian": "Cuti Besar",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.3",
+    "uraian": "Cuti Sakit, Cuti Bersalin, dan Cuti Tahunan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.4",
+    "uraian": "Cuti Alasan Penting",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.5",
+    "uraian": "Cuti Diluar Tanggungan Negara (CLTN)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.6",
+    "uraian": "Dokumentasi Identitas Pegawai (Karpeg/KPE/Karis/Karsu, KP4)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.06.7",
+    "uraian": "Kesejahteraan Pegawai",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.07",
+    "uraian": "Laporan Harta Kekayaan Aparatur Sipil Negara (LHKASN)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.08",
+    "uraian": "Laporan Harta Kekayaan Penyelenggara Negara (LHKPN) (Ketua dan Anggota KPU)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.09",
+    "uraian": "Berkas Perseorangan ASN",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.10",
+    "uraian": "Berkas Perseorangan Anggota KPU, KPU Provinsi, dan KPU Kabupaten/Kota",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.10.1",
+    "uraian": "Ketua dan Anggota KPU",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.10.2",
+    "uraian": "Ketua dan Anggota KPU Provinsi",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "SDM - Kepegawaian",
+    "kode": "SDM.10.3",
+    "uraian": "Ketua dan Anggota KPU Kabupaten/Kota",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU",
+    "uraian": "Keuangan",
+    "level": 0
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.01",
+    "uraian": "Rencana Anggaran Pendapatan dan Belanja Negara (RAPBN)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.01.1",
+    "uraian": "Penyusunan Rencana Anggaran Pendapatan dan Belanja Negara",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.01.2",
+    "uraian": "Penyampaian RAPBN kepada Dewan Perwakilan Rakyat (DPR)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.01.3",
+    "uraian": "Pembahasan RAPBN oleh Komisi DPR",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.01.4",
+    "uraian": "Nota Jawaban Pemerintah atas Pertanyaan DPR",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.01.5",
+    "uraian": "Undang-Undang terkait APBN dan Rencana Pembangunan Tahunan (RAPETA)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.02",
+    "uraian": "Penyusunan Anggaran Pendapatan dan Belanja Negara (APBN)",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.02.1",
+    "uraian": "Ketetapan Pagu Indikatif/Pagu Sementara",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.02.2",
+    "uraian": "Ketetapan Pagu Definitif",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.02.3",
+    "uraian": "Rencana Kerja Anggaran (RKA) Lembaga Negara dan Badan Pemerintahan (LNBP)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.02.4",
+    "uraian": "Daftar Isian Pelaksanaan Anggaran (DIPA), Petunjuk Operasional Kegiatan (POK) dan Revisinya",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.02.5",
+    "uraian": "Ketentuan/Peraturan Pelaksanaan Penatausahaan dan Pertanggungjawaban Anggaran",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03",
+    "uraian": "Pelaksanaan Anggaran",
+    "level": 1
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03.1",
+    "uraian": "Keputusan KPU terkait Penetapan Kuasa Pengguna Anggaran/Barang, PPK, PjSPM, PBJ, KPA",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03.2",
+    "uraian": "Pendapatan (SSP, SSBP, PNBP, SSPB, Penatausahaan BMN)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03.3",
+    "uraian": "Belanja (SPP-UP/DU/TU/LS, Dokumen Belanja Pegawai, LPJ, Dokumen Akuntansi Keuangan, Laporan Keuangan Tahunan)",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03.4",
+    "uraian": "Reviu Laporan Keuangan",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03.5",
+    "uraian": "Dana Hibah Dalam Negeri",
+    "level": 2
+  },
+  {
+    "kategori": "Fasilitatif",
+    "bidang": "KU - Keuangan",
+    "kode": "KU.03.6",
+    "uraian": "Pertanggungjawaban Keuangan Negara (Tuntutan Perbendaharaan dan Tuntutan Ganti Rugi)",
+    "level": 2
+  }
+]

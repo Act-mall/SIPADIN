@@ -1,0 +1,46 @@
+{
+  "app_name": "SIPADIN KPU Kota Banjarmasin",
+  "app_type": "enterprise_dashboard",
+  "emotional_tone": "Formal, professional, clean, modern, minimal, government institutional environment",
+  "color_palette": {
+    "primary": "#7F1D1D",
+    "primary_hover": "#991B1B",
+    "primary_light": "#FEF2F2",
+    "background_light": "#F8FAFC",
+    "card_background": "#FFFFFF",
+    "text_dark": "#1E293B",
+    "text_muted": "#64748B",
+    "border_color": "#E2E8F0"
+  },
+  "typography": {
+    "headings": "Plus Jakarta Sans, Inter, sans-serif",
+    "body": "Inter, sans-serif"
+  },
+  "components": [
+    "Sidebar Navigation with Collapsible Submenus",
+    "1-Click Admin & User Demo Login Modal/Bar",
+    "Admin Dashboard & User Dashboard with Metric Cards",
+    "Buku Agenda Table & Management",
+    "Surat Masuk & Surat Keluar Tables with Action Modals",
+    "Dokumen Internal Repository with Preview",
+    "Klasifikasi Arsip Master Management",
+    "Master Data Tabs (Pegawai, Subbagian, Pejabat)",
+    "Hak Akses Role Management & Dynamic Menu Visibility"
+  ],
+  "image_urls": [
+    {
+      "category": "government_building",
+      "url": "https://images.unsplash.com/photo-1669044526767-785214d30740?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "description": "Government building representation"
+    },
+    {
+      "category": "archive_documents",
+      "url": "https://images.unsplash.com/photo-1583521214690-73421a1829a9?crop=entropy&cs=srgb&fm=jpg&q=85",
+      "description": "Stacks of paper documents and files for archive section"
+    }
+  ],
+  "accessibility": {
+    "wcag_compliance": "AA standard",
+    "aria_labels_included": true
+  }
+}
