@@ -98,6 +98,17 @@ export default function Login() {
         </div>
 
         <p className="mt-6 text-center text-xs text-red-100/70">© 2026 KPU Kota Banjarmasin. Hak Cipta Dilindungi.</p>
+        <p className="mt-1 text-center text-xs text-red-100/70">
+          Dibuat oleh{" "}
+          <a
+            href="https://github.com/Act-mall"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="font-semibold text-white underline-offset-2 hover:underline"
+          >
+            Zainnur Akmal
+          </a>
+        </p>
       </div>
     </div>
   );
